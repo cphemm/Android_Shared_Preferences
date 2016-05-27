@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="action_settings">Settings</string>
+    <string name="save_name">Save Name</string>
+    <string name="name_text">What\'s Your Name?</string>
+    <string name="name_output">Your Name is:</string>
+</resources>
